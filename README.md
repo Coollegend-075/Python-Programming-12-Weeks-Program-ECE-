@@ -1,4 +1,4 @@
-## College Programming Practice — 12 Weeks
+## Programming Practice — 12 Weeks
 
 ## About This Repository:
 This repository contains my programming practice work completed as part of a 12-week college programming program. It includes weekly multiple-choice questions (MCQs) and coding exercises designed to strengthen programming fundamentals, logical thinking, and problem-solving skills.
@@ -19,5 +19,3 @@ Each weekly folder contains the corresponding MCQs and coding exercises.
 
 ## Author:
 Coollegend-075
-
-Created as part of a college programming practice program.
