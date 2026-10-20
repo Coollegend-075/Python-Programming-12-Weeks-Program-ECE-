@@ -10,22 +10,6 @@ This repository contains my programming practice work completed as part of a 12-
 - Reinforce concepts through weekly MCQs and coding exercises.
 - Maintain a structured record of my learning progress.
 
-## Repository Structure:
-Coollegend-075/
-├── Week-01/
-├── Week-02/
-├── Week-03/
-├── Week-04/
-├── Week-05/
-├── Week-06/
-├── Week-07/
-├── Week-08/
-├── Week-09/
-├── Week-10/
-├── Week-11/
-├── Week-12/
-└── README.md
-
 Each weekly folder contains the corresponding MCQs and coding exercises.
 
 ## Learning Outcomes:
